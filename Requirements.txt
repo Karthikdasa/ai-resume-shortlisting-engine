@@ -1,0 +1,6 @@
+torch
+transformers
+sentence-transformers
+spacy
+pymupdf
+docx2txt
